@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Kullanıcılar";
+    Layout = "~/Views/Panel/panelLayout.cshtml";
+}
+@model ViewData
+
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Kullanıcı Ad</th>
+        <th>Email</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach(var item in Model.kullanicis)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.kullanıcıAd</td>
+            <td>@item.email</td>
+            <td><a href="/Panel/KullaniciUpdate/@item.id" class="btn btn-primary">@localizer["guncelle"]</a></td>
+            <td><a href="/Panel/KullaniciSil/@item.id" class="btn btn-danger">@localizer["sil"]</a></td>
+        </tr>
+    }
+</table>
+
+
+

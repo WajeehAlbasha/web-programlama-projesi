@@ -1,0 +1,1598 @@
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\Index.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\user\source\repos\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\Index.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum28-12\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\Tarık\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexKato.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\panelLayout.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\ForumIndex.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumIndex.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdatee.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\SoruUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\bin\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Culture.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.tr.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.en.resources
+C:\Users\user\Desktop\SözlükForum\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.en.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.tr.resources
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexKato.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\ForumIndex.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdatee.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\panelLayout.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\SoruUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumIndex.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumUpdate.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Culture.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\user\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csprojAssemblyReference.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.en.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.tr.resources
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.GenerateResource.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SözlükForum.styles.css
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexKato.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\ForumIndex.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdate.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdatee.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\panelLayout.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\SoruUpdate.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumIndex.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumUpdate.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Culture.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\Mert1\OneDrive\Masaüstü\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.AssemblyReference.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.GenerateResource.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SözlükForum.styles.css
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexKato.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\ForumIndex.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdatee.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\panelLayout.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\SoruUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumIndex.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Culture.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\wajeeh\OneDrive\Desktop\SözlükForum Geliştirme\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.exe
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.deps.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.runtimeconfig.dev.json
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.AssemblyReference.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Controllers.HomeController.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Home.Index.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.GirisYap.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Kullanici.YeniKullanici.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.ForumIndex.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.Index.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.panelLayout.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Panel.YorumIndex.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Gundemm.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.en.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Resources.Views.Shared._Layout.tr.resources
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.GenerateResource.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfoInputs.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.AssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CoreCompileInputs.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorAssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\en\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\tr\SözlükForum.resources.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.Manifest.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\staticwebassets\SözlükForum.StaticWebAssets.xml
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SözlükForum.styles.css
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.input.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.TagHelpers.output.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorCoreGenerate.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Detail.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\ForumSoru\Kayit.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\IndexKato.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\GirisYap.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Kullanici\YeniKullanici.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\ForumIndex.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\Index.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\KullaniciUpdatee.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\panelLayout.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\SoruUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumIndex.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Panel\YorumUpdate.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Culture.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Gundemm.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.RazorTargetAssemblyInfo.cs
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.Views.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.dll
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.pdb
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.genruntimeconfig.cache
+C:\Users\wajeeh\OneDrive\Desktop\test\SözlükForum\obj\Debug\netcoreapp3.1\SözlükForum.csproj.CopyComplete

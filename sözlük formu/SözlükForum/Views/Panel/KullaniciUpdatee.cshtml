@@ -1,0 +1,34 @@
+﻿@model SözlükForum.Models.Kullanici
+
+@{
+    ViewData["Title"] = "Kullanıcı Update";
+    Layout = "~/Views/Panel/panelLayout.cshtml";
+}
+
+<h1>KullaniciUpdate</h1>
+@{
+    int id = Model.id;
+}
+<h4>Kullanici</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        @using (Html.BeginForm("KullaniciUpdate", "Panel", FormMethod.Post))
+        {
+            <b>Id</b>
+            @Html.TextAreaFor(x => x.id, new { @class = "form-control" })
+            <br />
+            <b>Kullanıcı Ad</b>
+            @Html.TextAreaFor(x => x.kullanıcıAd, new { @class = "form-control" })
+            <br />
+            <b>Sifre</b>
+            @Html.TextAreaFor(x => x.sifre, new { @class = "form-control" })
+            <br />
+            <b>Email</b>
+            @Html.TextAreaFor(x => x.email, new { @class = "form-control" })
+            <br />
+            <button class="btn btn-primary btn-block">Kaydet</button>
+        }
+    </div>
+</div>
+

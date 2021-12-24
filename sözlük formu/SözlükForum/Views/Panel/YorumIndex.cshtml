@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Yorumlar";
+    Layout = "~/Views/Panel/panelLayout.cshtml";
+}
+@model ViewData
+
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Icerik</th>
+        <th>Kullanıcı</th>
+        <th>Soru</th>
+        <th>Zaman</th>
+        <th>Güncelle</th>
+        <th>Sil</th>
+    </tr>
+    @foreach (var item in Model.yorums)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Icerik</td>
+            <td>@item.kullanici.kullanıcıAd</td>
+            <td>@item.forumsoru.Id</td>
+            <td>@item.Zaman</td>
+            <td><a href="/Panel/YorumUpdate/@item.Id" class="btn btn-primary">@localizer["guncelle"]</a></td>
+            <td><a href="/Panel/YorumSil/@item.Id" class="btn btn-danger">@localizer["sil"]</a></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model SözlükForum.Models.ViewData
+@{
+    var baslık = @Model.forumSoruss.First();
+    var baslıkk = baslık.soru;
+    ViewData["Title"] = baslıkk;
+}
+<div style="background-color:#4ba2bd; border-radius: 5% " class="container">
+    @foreach (var item in Model.forumSoruss)
+    {
+        <div>
+            <h2 class="text-center">@Html.DisplayFor(modelItem => item.soru)</h2>
+
+            <p class="text-right">@Html.DisplayFor(modelItem => item.kullanici.kullanıcıAd)</p>
+
+        </div>
+        <hr />
+        <div>
+            <p>@Html.DisplayFor(modelItem => item.icerik)</p>
+            <p class="text-right"><i>@Html.DisplayFor(modelItem => item.eklemeTarih)</i></p>
+        </div>
+    }
+</div>
+<br />
+<div>
+
+    <h5>Yorumlar:</h5>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <form href="/ForumSoru/Detail/@Model.forumSoruss.First().Id" method="post">
+            @Html.TextBoxFor(x => x.yorumss.Icerik, new { @class = "form-control" })
+            <button type="submit" class="btn btn-block btn-primary">Gönder</button>
+        </form>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            <strong>Giriş!</strong> yapmanız gerekiyor...
+        </div>
+    }
+    <br />
+    <br />
+    <div class="container">
+        @foreach (var item in Model.yorums)
+        {
+            <div style="background-color:#4ba2bd; border-radius: 5%; ">
+                <p style="padding:1%">
+                    @Html.DisplayFor(modelItem => item.Icerik)<br />
+                <p style="font-size:11px;" align="right"><i>@Html.DisplayFor(modelItem => item.kullanici.kullanıcıAd) ~ @Html.DisplayFor(modelItem => item.Zaman)</i></p>
+                </p>
+            </div>
+            <hr />
+        }
+    </div>
+</div>

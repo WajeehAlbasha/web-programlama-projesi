@@ -1,0 +1,33 @@
+﻿@model SözlükForum.Models.Yorum
+
+@{
+    ViewData["Title"] = "Yorum Update";
+    Layout = "~/Views/Panel/panelLayout.cshtml";
+}
+
+<h1>YorumUpdate</h1>
+
+<h4>Yorum</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="YorumUpdate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Icerik" class="control-label"></label>
+                <input asp-for="Icerik" class="form-control" />
+                <span asp-validation-for="Icerik" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Zaman" class="control-label"></label>
+                <input asp-for="Zaman" class="form-control" />
+                <span asp-validation-for="Zaman" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Gönder" class="btn btn-primary btn-block" />
+            </div>
+        </form>
+    </div>
+</div>
+

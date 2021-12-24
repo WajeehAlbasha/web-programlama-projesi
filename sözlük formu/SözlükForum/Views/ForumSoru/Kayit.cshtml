@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Soru Ekle";
+}
+@model SözlükForum.Models.ForumSoru
+@if (!(ViewBag.mesaj is null))
+{
+    <div class="alert alert-success">
+        <strong>Üzgünüz </strong> @ViewBag.mesaj
+    </div>
+}
+<form method="post">
+    <div class="form-group">
+        <label asp-for="soru" class="control-label">Soru</label>
+        <input asp-for="soru" class="form-control" />
+        <span asp-validation-for="soru" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="icerik" class="control-label">İcerik</label>
+        <textarea  asp-for="icerik" class="form-control"></textarea>
+        <span asp-validation-for="icerik" class="text-danger"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="katego">Kategori</label>
+        <select asp-for="katego" class="custom-select mr-sm-2" asp-items="Html.GetEnumSelectList<Katego>()">
+            <option value="">Lütfen Seçiniz...</option>
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary btn-block">Gönder</button>
+</form>

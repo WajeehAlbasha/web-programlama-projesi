@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light" style="background-color:#e6f7fd; ">
+                <div class="container">
+                    <a asp-action="index" asp-controller="Home" class="navbar-brand">Sözlük Forum</a>
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                        <form asp-controller="Home" asp-action="Index" class="form-inline" style="margin-left:15%;">
+                            <div class="input-group">
+                                <input type="text" class="form-control" name="SearchString" placeholder="@localizer["ara"]">
+                                <div class="input-group-append">
+                                    <button type="submit" class="btn btn-secondary"><i class="fas fa-search"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="navbar-nav">
+                            <partial name="_Culture" />
+                            @if (!User.Identity.IsAuthenticated)
+                            {
+                                <a asp-action="GirisYap" asp-controller="Kullanici" class="nav-item nav-link">@localizer["girisyap"]</a>
+                                <a asp-action="YeniKullanici" asp-controller="Kullanici" class="nav-item nav-link">@localizer["kayitol"]</a>
+                            }
+                            else
+                            {
+                                Contex c = new Contex();
+                                var name = User.Identity.Name;
+                                var bilgi = c.Kullanicis.Where(x => x.kullanıcıAd == name).Where(x => x.admin == true).Count();
+
+                                @if (bilgi != 0)
+                                {
+                                    <a asp-action="Index" asp-controller="Panel" class="nav-item nav-link">@localizer["merhaba"], @User.Identity.Name</a>
+                                }
+                                else
+                                {
+                                    <a class="nav-item nav-link">Merhaba, @User.Identity.Name</a>
+                                }
+
+                                <a asp-action="Logout" asp-controller="Kullanici" class="nav-item nav-link">@localizer["cikisyap"]</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <nav class="navbar navbar-expand-md navbar-light" style="background-color:#e6f7fd; height: auto; ">
+                <div class="container">
+                    <a href="/Home/IndexKato/1" class="nav-item nav-link">@localizer["spor"]</a>
+                    <a href="/Home/IndexKato/2" class="nav-item nav-link">@localizer["ekonomi"]</a>
+                    <a href="/Home/IndexKato/3" class="nav-item nav-link">@localizer["saglik"]</a>
+                    <a href="/Home/IndexKato/4" class="nav-item nav-link">@localizer["egitim"]</a>
+                    <a href="/Home/IndexKato/5" class="nav-item nav-link">@localizer["diger"]</a>
+                </div>
+            </nav>
+    </header>
+    <br />
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - SözlükForum - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

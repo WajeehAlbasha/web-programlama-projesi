@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<SözlükForum.Models.ForumSoru>
+<div class="overflow-auto container " style="max-height:640px; position:fixed; border-right-style: solid; max-width:265px;">
+    <h3 class="text-center" style="background-color:#cfdee3; border-radius: 5px; ">@localizer["gündem"]</h3>
+    <hr />
+    <ul class="list-group">
+        @foreach (var item in Model)
+        {
+            <a style="color:black" href="/ForumSoru/Detail/@item.Id"><li class="list-group-item list-group-item-action list-group-item-light text" style="border-color:#e5e969" >@Html.DisplayFor(modelItem => item.soru)</li></a>
+        }
+    </ul>
+</div>

@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+    Layout = "_Layout";
+    var gundem = ViewData["gundem"];
+}
+@model IEnumerable<SözlükForum.Models.ForumSoru>
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer;
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a asp-action="Kayit" asp-controller="ForumSoru" class="btn btn-info btn-block">@localizer["soruyaz"]</a>
+            </div>
+        </div>
+    </div>
+    <br />
+}
+<div class="row">
+    <div class="col-4">
+        @Html.Partial("_Gundemm", gundem)
+    </div>
+    <div class="col-8">
+        
+        @if (Model is null)
+        {
+            <div class="alert alert-danger">
+                <strong>Üzgünüz!</strong> sonuç bulunamadı...
+            </div>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <div style="background-color:#54b4d3; border-radius: 5% " class="container">
+                    <div>
+                        <a style="color:black" href="/ForumSoru/Detail/@item.Id"><h2 class="text-center text">@Html.DisplayFor(modelItem => item.soru)</h2></a>
+                        <p class="text-right">@Html.DisplayFor(modelItem => item.kullanici.kullanıcıAd)</p>
+                    </div>
+                    <hr />
+                    <div>
+                        <p class="text">@Html.DisplayFor(modelItem => item.icerik)</p>
+                        <p class="text-right"><i>@Html.DisplayFor(modelItem => item.eklemeTarih)</i></p>
+                    </div>
+                    <a asp-action="BegenEkle" asp-controller="SoruBegen" asp-route-id="@item.Id" class="btn"><i class="far fa-heart"></i></a>
+                </div>
+                <hr />
+            }
+        }
+    </div>
+</div>
